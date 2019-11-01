@@ -1,0 +1,80 @@
+        .container{
+            border: 1px solid white;
+            padding:0px;
+            max-width: 900px;
+            background-color: burlywood;
+        }
+
+        .text-block{
+            
+            background-color: burlywood;
+            color: azure;
+            padding: 4em;
+        }
+
+    
+        footer{
+            min-height: 50px;
+            background-color: antiquewhite;
+            text-align: center;
+            font-family: serif;
+        }
+
+        .bg-dark{
+          background-color:burlywood !important;
+            font-family: serif;
+        
+        }
+        .fa {
+        padding: 20px;
+        font-size: 30px;
+        width: 30px;
+        text-align: center;
+        text-decoration: none;
+        border-radius: 50%;
+       }
+
+        .image-box{
+            width:90%;
+            margin: auto;
+        }
+
+        .centre-image{
+            display: block;
+            margin:auto;
+            
+        }
+
+        h1{
+            border-bottom: 5px solid white;
+            padding-bottom: 8px;
+            padding-top: 0px;
+            color: white;
+            font-family: serif;
+       
+        }
+        h2{
+            color:white;
+            padding:1px;
+            padding-top: 20px;
+            font-family:serif;
+        }
+        p{
+    
+            color:white;
+            font-size:19px;
+            font-family: serif;
+        
+        }
+        li{
+            color:white;
+            font-size:18px;
+            font-family:serif;
+        }
+
+
+
+
+
+
+        
